@@ -36,7 +36,7 @@ Team Heroku is committed to advancing the understanding of remittances and econo
 - [GDP Data](https://data.worldbank.org/indicator/NY.GDP.MKTP.CN?intcid=ecr_hp_BeltC_en_ext)
 - [Remittance Paid Data](https://data.worldbank.org/indicator/BM.TRF.PWKR.CD.DT)
 - [Remittance Received Data](https://data.worldbank.org/indicator/BX.TRF.PWKR.CD.DT)
-- [Unemployment Rate Data](https://data.worldbank.org/indicator/SL.UEM.TOTL.FE.ZS)
+- [Unemployment Rate Data](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS)
 - [Migration Data](https://data.worldbank.org/indicator/SM.POP.NETM)
 - [Population Data](https://data.worldbank.org/indicator/SP.POP.TOTL)
 - [Foreign Direct Investment Data](https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD)
