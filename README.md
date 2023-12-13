@@ -1,5 +1,9 @@
 # Remittance Patterns and Economic Development
 
+***The file contains code on different exploratory analysis and how it can be used to decide which to be used for forcasting.
+
+***There are other attachment to this project like containerization with docker and accessing from a website to forecast exchange and remittance of any country in Africa
+
 ## Introduction
 This repository contains the research project conducted by Team Heroku, focusing on the intricate relationship between remittance patterns and economic development, with a special emphasis on African countries in the context of the COVID-19 pandemic. Our research delves into the dynamics of remittances and their impact on various economic indicators, addressing gaps left by previous studies.
 
